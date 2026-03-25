@@ -9,3 +9,16 @@ Analyze EV sales trends over time
 Identify seasonal patterns
 Perform data visualization (EDA)
 Build predictive models for EV sales
+Dataset
+EV sales dataset
+Contains:
+Date
+EV sales quantity
+Vehicle categories
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
